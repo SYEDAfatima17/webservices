@@ -1,0 +1,56 @@
+{
+    "page": 1,
+    "per_page": 4,
+    "total": 4,
+    "total_pages": 1,
+    "data": [
+        {
+            "id": 1,
+            "accountHolderName": "John Doe",
+            "accountNumber": "1234567890",
+            "accountType": "checking",
+            "routingNumber": "987654321",
+            "bankName": "Secure Bank",
+            "address": "123 Elm Street, Springfield, IL, 62701",
+            "accountBalance": "1500.75",
+            "accountStatus": "Active"
+        },
+        {
+            "id": 2,
+            "accountHolderName": "Jane Smith",
+            "accountNumber": "2345678901",
+            "accountType": "savings",
+            "routingNumber": "123456789",
+            "bankName": "Secure Bank",
+            "address": "456 Oak Avenue, Springfield, IL, 62702",
+            "accountBalance": "2500.50",
+            "accountStatus": "Active"
+        },
+        {
+            "id": 3,
+            "accountHolderName": "Emily Johnson",
+            "accountNumber": "3456789012",
+            "accountType": "checking",
+            "routingNumber": "234567890",
+            "bankName": "Secure Bank",
+            "address": "789 Pine Lane, Springfield, IL, 62703",
+            "accountBalance": "800.00",
+            "accountStatus": "Inactive"
+        },
+        {
+            "id": 4,
+            "accountHolderName": "Michael",
+            "accountNumber": "4567890123",
+            "accountType": "business",
+            "routingNumber": "345678901",
+            "bankName": "Secure Bank",
+            "address": "101 Maple Drive, Springfield, IL, 62704",
+            "accountBalance": "50000.00",
+            "accountStatus": "Active"
+        }
+    ],
+    "support": {
+        "url": "https://support.bank.com",
+        "text": "For assistance, please contact support."
+    }
+}
